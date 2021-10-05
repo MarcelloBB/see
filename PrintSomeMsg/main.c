@@ -7,6 +7,12 @@
 #include <stdio.h>
 
 int main(){
-	printf("\nTesting\n\n");
+	int a = 10;
+	int b = 20;
+	
+	printf("\n+-----------");
+	printf("\n  a = %i   ",a);
+	printf("\n  b = %i   ",b);
+	printf("\n+-----------\n");
 	return 0;
 }
