@@ -1,11 +1,11 @@
 # see
-## Sobre
+## About
 Arquivos em C
 
-## Licença
+## License
 MIT License
 
-## Autor
+## Author
 Marcello,
 2021
 
