@@ -23,10 +23,10 @@
 #define PI		 3.14
 
 // FUNC  SUM_ARGS
-int  SUM_ARGS(int NUM_a, int NUM_b);
+int sum(int NUM_a, int NUM_b);
 
 // FUNC  SHOW
-void SHOW(char MSG[]);
+int show(char MSG[]);
 
 // END
 #endif

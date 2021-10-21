@@ -15,12 +15,13 @@
 // MAIN ...
 
 // SHOW (MSG)
-void SHOW(char MSG[]){
+void show(char MSG[]){
 	printf("%s\n",MSG);
+	return 0;
 }
 
 // SUM_ARGS (NUM_a, NUM_b)
-int SUM_ARGS(int NUM_a, int NUM_b) {
+int sum(int NUM_a, int NUM_b) {
 	return NUM_a + NUM_b;
 }
 
