@@ -14,12 +14,21 @@
 #define _FAVNUM_  27
 
 // |FUNC|  SumTwoArgs
-float SumTwoArgs (float ArgA, float ArgB);
+int SumTwoArgs (int ArgA, int ArgB)
+{
+	return ArgA + ArgB;
+}
 
 // |FUNC|  CubeArgs
-int CubeArgs(int num);
+int CubeArgs(int num)
+{
+	return num * num * num;
+}
 
 // |FUNC|  SquareArgs
-int SquareArgs(int num);
+int SquareArgs(int num)
+{
+	return num * num;
+}
 
 #endif
