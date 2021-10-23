@@ -11,10 +11,10 @@
 #define _PI_       3.1415
 
 // |CONST| _FAVNUM_
-#define _FAVNUM__  27
+#define _FAVNUM_  27
 
 // |FUNC|  SumTwoArgs
-void SumTwoArgs (float ArgA, float ArgB);
+float SumTwoArgs (float ArgA, float ArgB);
 
 // |FUNC|  CubeArgs
 int CubeArgs(int num);
