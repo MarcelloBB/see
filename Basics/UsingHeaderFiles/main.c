@@ -5,10 +5,10 @@
 // +--------------------------------
 
 // ALWAYS INCLUDE HEADER FILE
-#include "functions.h"
+#include <stdio.h>
 
 // MAIN 
-#include <stdio.h>
+#include "functions.h"
 
 int main(){
 	// USING CONSTS

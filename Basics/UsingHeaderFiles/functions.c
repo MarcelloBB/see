@@ -10,6 +10,7 @@
 // +--------------------------------
 
 // IMPORTING THE MAIN
+#include <stdio.h>
 #include "functions.h"
 
 // MAIN ...
